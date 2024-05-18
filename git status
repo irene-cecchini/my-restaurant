@@ -1,0 +1,11 @@
+[33mcommit 2376aea18684496723c28b6355b8f751567528df[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev/css-style[m[33m)[m
+Author: Irene Cecchini <irene@test.com>
+Date:   Sat May 18 15:55:19 2024 +0200
+
+    styling body element
+
+[33mcommit 74bb82144d673370c932f673931330634686b881[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Irene Cecchini <irene@test.com>
+Date:   Sat May 18 14:14:46 2024 +0200
+
+    first commit
